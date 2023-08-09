@@ -2,6 +2,7 @@
 
 This repository contains a sample hotel website with three main pages: Home, About, and Contact. The website was built using HTML and CSS to showcase a fictional hotel's online presence.
 
+You can visit the live site of this project at [https://hotel-bt-site-julizajz.netlify.app/](https://hotel-bt-site-julizajz.netlify.app/).
 ## Description
 
 The Sample Hotel Website is a demonstration of a hotel's online presence, featuring a fictional hotel. It serves as an example of structuring and styling a basic hotel website using HTML and CSS.
